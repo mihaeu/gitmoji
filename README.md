@@ -1,7 +1,7 @@
 ![Emojified Git log](https://upx.cz/s8e4gaou9sziupchin614it54fn2iuhmlkhab92c?gitmoji.png)
 
 ## Usage
-1. `npm i gitmoji —g`
+1. `npm i -g gitmoji`
 2. You can now use `gitmoji` in your terminal!
 
 ## Custom git log command
